@@ -1,0 +1,28 @@
+/*
+    @font-face {
+        font-family: "NotoSansJP-Medium";
+        src: url(font/NotoSansJP-Medium.ttf);
+    }
+
+    @font-face {
+        font-family: "HachiMaruPop";
+        src: url(font/HachiMaruPop-Regular.ttf);
+        ascent-override: 75%;
+        descent-override: 22%;
+    }
+*/
+    @font-face {
+        font-family: "LINESeed";
+        src: url(font/LINESeedJP_TTF_Rg.ttf);
+    }
+
+    /*
+
+    @font-face {
+        font-family: "pressStart";
+        src: url(font/PressStart2P-vaV7.ttf);
+
+
+    }
+
+    */
